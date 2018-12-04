@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jan 04 11:27:40 CST 2018
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\java program\\homework_5\\output\\run.jar
+manifest.mergeall=true
+manifest.mainclass=main.Jframe
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
