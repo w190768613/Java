@@ -1,4 +1,4 @@
-# java排序算法
+# sort java排序算法
 
 运行时需**配置程序自变量**，第一个是将要读取的文件 data.txt，第二个是存放输出的文件 output.txt，可参考 setting.png
 
