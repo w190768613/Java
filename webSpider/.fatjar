@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 13 12:29:13 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\java program\\homework_4\\output\\homework_4.jar
+manifest.mergeall=true
+manifest.mainclass=main.Searcher
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
